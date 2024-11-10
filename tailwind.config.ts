@@ -18,7 +18,11 @@ const config = {
         "2xl": "1400px",
       },
     },
+
     extend: {
+      spacing: {
+        "9": "2.25rem",
+      },
       colors: {
         fill: {
           1: "rgba(255, 255, 255, 0.10)",
